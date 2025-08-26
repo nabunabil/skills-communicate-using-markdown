@@ -23,3 +23,13 @@ git init
 git add .
 git commit -m "My first commit 🚀"
 
+---
+
+## My Task List
+
+- [ ] Turn on GitHub Pages  
+- [ ] Outline my portfolio  
+- [ ] Introduce myself to the world  
+- [x] Learn Markdown basics  
+- [x] Add headers, images, and code blocks  
+
