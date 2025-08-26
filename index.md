@@ -11,4 +11,15 @@ Hello 👋 I’m learning Markdown on GitHub!
 ---
 
 ## My Favorite Me
-![Image of nabunabil]([https://octodex.github.com/images/yaktocat.png](https://avatars.githubusercontent.com/u/162911888?v=4)
+![Image of nabunabil](https://avatars.githubusercontent.com/u/162911888?v=4)
+
+---
+
+## My First Code Example
+
+```bash
+# Create a new Git repository
+git init
+git add .
+git commit -m "My first commit 🚀"
+
